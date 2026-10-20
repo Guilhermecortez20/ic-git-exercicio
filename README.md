@@ -1,4 +1,7 @@
+
 # Projeto de Introdução à Computação - Versão B
+# Projeto de Introdução à Computação - Versão A
+
 ## Funcionalidades
 
 * O santos ganhou<br>
