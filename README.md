@@ -1,4 +1,4 @@
-# ic-git-exercicio
+# Projeto de Introdução à Computação - Versão B
 ## Funcionalidades
 
 * O santos ganhou<br>
