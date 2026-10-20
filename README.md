@@ -1,5 +1,5 @@
 # ic-git-exercicio
 ## Funcionalidades
-*O santos Ganhou
-*Eleição no Brasil
+*O santos Ganhou<br>
+*Eleição no Brasil<br>
 **Qualquer coisa**
